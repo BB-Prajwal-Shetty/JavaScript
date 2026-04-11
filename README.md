@@ -1,2 +1,2 @@
 # JavaScript
-All the learnings, practices and projects done during JavaScript.
+All the learnings, practices and projects done in JavaScript.
