@@ -1,0 +1,11 @@
+inpput{
+    margin-bottom: 40px;
+}
+.card{
+    background-color: blue;
+    border-radius: 30px;
+    margin-bottom: 30px;
+    h3{
+        color: white;
+    }
+}
