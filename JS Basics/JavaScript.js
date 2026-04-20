@@ -174,7 +174,7 @@
 // let num = x.splice(0,4)
 // let hh = x.splice(1,4)
 // let num2 = x.splice(1,3)
-// // let ravi = x.splice(0).toString().toUpperCase().split().reverse().join()
+// let ravi = x.splice(0).toString().toUpperCase().split("").reverse().join("")
 // console.log(x)
 
 // OBJECT {}

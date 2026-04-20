@@ -81,14 +81,14 @@
 
 
 // let no = Number(prompt("Enter number: "))
-// if(no%3 === 0){
+// if(no%3 === 0 && no%5 === 0){
+//     console.log("the given no is divisible by both 3 and 5")
+// }
+// else if(no%3 === 0){
 //     console.log("the given no is divisible by 3")
 // }
-// if(no%5 ===0){
+// else if(no%5 ===0){
 //     console.log("the given no is divisible by 5")
-// }
-// if(no%3 === 0 || no%5 === 0){
-//     console.log("the given no is divisible by both")
 // }
 // else{
 //     console.log("the given no is divisible by neither 3 nor 5")
@@ -120,13 +120,10 @@
 //         console.log("Stand in male line")
 //     }
 //     else if(gender === "f" || gender === "female"){
-//         console.log("Stand in male line")
+//         console.log("Stand in female line")
 //     }
 //     else if(gender === "o" || gender === "other"){
-//         console.log("Stand in male line")
-//     }
-//     if(gender === "m" || gender === "male"){
-//         console.log("Stand in male line")
+//         console.log("Stand in other line")
 //     }
 // }
 // else if(age < 18){
